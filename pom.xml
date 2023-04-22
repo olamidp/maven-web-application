@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.41.3.68:8081/repository/success-releases/</url>
+	      <url>http://54.200.248.197:8081/repository/paypal-releases/</url>
 	   </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.41.3.68:8081/repository/success-snapshots/</url>
+	      <urlhttp://54.200.248.197:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>success</finalName>
+		<finalName>paypal</finalName>
 		
 		<plugins>
 			<plugin>
