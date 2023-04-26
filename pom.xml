@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.214.159.168:8081/repository/success-releases/</url>
+	      <url>http://35.90.174.69:8081/repository/autosquad-releases/</url>
 	   </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.214.159.168:8081/repository/success-snapshots/</url>
+	      <url>http://35.90.174.69:8081/repository/autosquad-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
