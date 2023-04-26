@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>success</finalName>
+		<finalName>autotest</finalName>
 		
 		<plugins>
 			<plugin>
